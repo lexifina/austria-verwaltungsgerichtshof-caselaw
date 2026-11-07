@@ -1,0 +1,32 @@
+{
+  "corpus": "at/verwaltungsgerichtshof/caselaw",
+  "path": "austria/verwaltungsgerichtshof/caselaw",
+  "name": "Case law: Austria, Verwaltungsgerichtshof (VwGH)",
+  "label": "Austria case law (Verwaltungsgerichtshof (VwGH))",
+  "language": "de",
+  "kind": "judgments",
+  "history": "in-force",
+  "coverage": "141418 decision texts (Entscheidungstexte) from RIS, one file and one commit each, dated the day decided; 49773 citations of the B-VG and the DSG linked to austria-law.",
+  "history_from": "1876-10-26",
+  "record_to": "2026-11-07",
+  "checked_on": "2026-11-07",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. Only full decision texts are taken, not the Rechtssätze (headnote summaries).",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrected",
+  "dates": {
+    "commit": "decided",
+    "time": "12:00 Europe/Vienna"
+  },
+  "source": {
+    "publisher": "Bundeskanzleramt, RIS - Rechtsinformationssystem des Bundes",
+    "dataset": "RIS OGD Judikatur (Vwgh)",
+    "url": "https://data.bka.gv.at/ris/api/v2.6/Judikatur",
+    "updated": "2026-11-07"
+  },
+  "licence": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+  "credit": "Datenquelle: RIS - Rechtsinformationssystem des Bundes (www.ris.bka.gv.at), Bundeskanzleramt; Creative Commons Namensnennung 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/deed.de; abgerufen 2026-11-07",
+  "overlay": {
+    "path": "judgments/austria/bund/acts/<file>.jsonl",
+    "law_corpus": "austria/bund/acts"
+  }
+}
